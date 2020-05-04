@@ -12,13 +12,34 @@ Please replace them with your own photos and logos if you use this template!
 
 
 ## Also check out the previous Two Row Academic CV
-![Two Row Academic CV](https://github.com/latex-ninja/two-row-academic-cv/blob/master/two-row-academic-cv.png)
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Two Row Academic CV</th>
+	</tr>
+	<tr>
+		<td>
+			<img src="https://github.com/latex-ninja/two-row-academic-cv/blob/master/two-row-academic-cv.png" 
+				alt="One Row Academic CV"
+				height="300"/>
+		</td>
+	</tr>			
+</table>
 [Get it here.](https://github.com/latex-ninja/two-row-academic-cv)
 
 # See also: Modern Simple CV
-![Modern Simple CV](https://github.com/latex-ninja/hipster-cv/blob/master/previews/modern-simple-cv.png)
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Modern Simple CV</th>
+	</tr>
+	<tr>
+		<td>
+			<img src="https://github.com/latex-ninja/hipster-cv/blob/master/previews/modern-simple-cv.png" 
+				alt="Modern Simple CV"
+				height="300"/>
+		</td>
+	</tr>			
+</table>
 [Get it here.](https://raw.githubusercontent.com/latex-ninja/modern-simple-cv/)
-
 
 # See also: Simple Academic CV (different versions)
 
