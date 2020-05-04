@@ -13,6 +13,7 @@ Please replace them with your own photos and logos if you use this template!
 
 ## Also check out the previous Two Row Academic CV
 ![Two Row Academic CV](https://github.com/latex-ninja/two-row-academic-cv/blob/master/two-row-academic-cv.png)
+[Get it here.](https://github.com/latex-ninja/two-row-academic-cv)
 
 # See also: Modern Simple CV
 ![Modern Simple CV](https://github.com/latex-ninja/hipster-cv/blob/master/previews/modern-simple-cv.png)
