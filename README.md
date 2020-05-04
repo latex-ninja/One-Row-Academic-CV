@@ -24,6 +24,7 @@ Please replace them with your own photos and logos if you use this template!
 		</td>
 	</tr>			
 </table>
+
 [Get it here.](https://github.com/latex-ninja/two-row-academic-cv)
 
 # See also: Modern Simple CV
@@ -39,6 +40,7 @@ Please replace them with your own photos and logos if you use this template!
 		</td>
 	</tr>			
 </table>
+
 [Get it here.](https://raw.githubusercontent.com/latex-ninja/modern-simple-cv/)
 
 # See also: Simple Academic CV (different versions)
